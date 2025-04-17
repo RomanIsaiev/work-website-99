@@ -1398,6 +1398,10 @@ html {
 .dont-miss .container {
 }
 
+.form-wrapper {
+  margin-top: 10px;
+}
+
 .dont-miss-ellipse {
   position: absolute;
   right: 0;
